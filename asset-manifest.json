@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb5fe043.css",
-    "main.js": "/static/js/main.561fd80f.js",
-    "static/js/453.ca6df98b.chunk.js": "/static/js/453.ca6df98b.chunk.js",
-    "index.html": "/index.html",
-    "main.bb5fe043.css.map": "/static/css/main.bb5fe043.css.map",
-    "main.561fd80f.js.map": "/static/js/main.561fd80f.js.map",
-    "453.ca6df98b.chunk.js.map": "/static/js/453.ca6df98b.chunk.js.map"
+    "main.css": "/portfolio-doctorwitch/static/css/main.bb5fe043.css",
+    "main.js": "/portfolio-doctorwitch/static/js/main.b9b66ba5.js",
+    "static/js/453.ca6df98b.chunk.js": "/portfolio-doctorwitch/static/js/453.ca6df98b.chunk.js",
+    "index.html": "/portfolio-doctorwitch/index.html",
+    "main.bb5fe043.css.map": "/portfolio-doctorwitch/static/css/main.bb5fe043.css.map",
+    "main.b9b66ba5.js.map": "/portfolio-doctorwitch/static/js/main.b9b66ba5.js.map",
+    "453.ca6df98b.chunk.js.map": "/portfolio-doctorwitch/static/js/453.ca6df98b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb5fe043.css",
-    "static/js/main.561fd80f.js"
+    "static/js/main.b9b66ba5.js"
   ]
 }
